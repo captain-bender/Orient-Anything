@@ -71,7 +71,7 @@ temp/
 *.tmp
 
 # Benchmark results (generated)
-benchmark_results/
+# benchmark_results/
 
 # Byte-compiled / optimized
 *.pyc
