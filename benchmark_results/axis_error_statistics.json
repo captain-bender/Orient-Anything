@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "analysis_date": "2026-01-31T12:58:58.516800",
+    "total_samples": 40,
+    "data_source": "benchmark_results/comparison.csv",
+    "column_analyzed": "axis_error"
+  },
+  "descriptive_statistics": {
+    "count": 40,
+    "mean": 1.6307,
+    "median": 1.195,
+    "std_deviation": 1.4757,
+    "variance": 2.1776,
+    "min": 0.07,
+    "max": 6.4,
+    "range": 6.33
+  },
+  "quartile_analysis": {
+    "q1": 0.5075,
+    "q2": 1.195,
+    "q3": 2.34,
+    "iqr": 1.8325
+  },
+  "distribution_shape": {
+    "skewness": 1.3355,
+    "kurtosis": 1.5059
+  },
+  "normality_test": {
+    "test": "Shapiro-Wilk",
+    "statistic": 0.865,
+    "p_value": 0.0002,
+    "is_normal": false,
+    "alpha": 0.05
+  },
+  "confidence_intervals": {
+    "confidence_level": 0.95,
+    "mean_ci_lower": 1.1588,
+    "mean_ci_upper": 2.1027
+  },
+  "error_distribution": {
+    "0-1deg": {
+      "count": 19,
+      "percentage": 47.5
+    },
+    "1-2deg": {
+      "count": 8,
+      "percentage": 20.0
+    },
+    "2-3deg": {
+      "count": 7,
+      "percentage": 17.5
+    },
+    "3-4deg": {
+      "count": 3,
+      "percentage": 7.5
+    },
+    "4-5deg": {
+      "count": 2,
+      "percentage": 5.0
+    },
+    ">5deg": {
+      "count": 1,
+      "percentage": 2.5
+    }
+  },
+  "correlation_analysis": {
+    "variable": "confidence_score",
+    "correlation_type": "Pearson",
+    "correlation_coefficient": -0.3467
+  },
+  "front_identification_status": {
+    "correctly_identified": 21,
+    "not_identified": 19,
+    "correct_percentage": 52.5,
+    "incorrect_percentage": 47.5
+  },
+  "quality_distribution": {
+    "excellent_0_to_3deg": {
+      "count": 34,
+      "percentage": 85.0
+    },
+    "very_good_3_to_5deg": {
+      "count": 5,
+      "percentage": 12.5
+    },
+    "good_above_5deg": {
+      "count": 1,
+      "percentage": 2.5
+    }
+  }
+}

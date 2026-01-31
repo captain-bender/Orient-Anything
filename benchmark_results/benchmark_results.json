@@ -1,0 +1,412 @@
+{
+  "metadata": {
+    "timestamp": "2026-01-31T12:44:31.667348",
+    "benchmark_folder": "dataset/benchmark",
+    "total_images": 40,
+    "inference_augmentation": false,
+    "background_removal": true,
+    "device": "cuda"
+  },
+  "predictions": [
+    {
+      "status": "success",
+      "azimuth_deg": 1.0,
+      "polar_deg": -1.0,
+      "rotation_deg": 30.0,
+      "confidence_score": 0.7761144042015076,
+      "inference_time_seconds": 1.0579073429107666,
+      "visualization_file": "visualizations/position_009_axis.png",
+      "image_file": "position_009.png"
+    },
+    {
+      "status": "success",
+      "azimuth_deg": 0.0,
+      "polar_deg": 4.0,
+      "rotation_deg": 1.0,
+      "confidence_score": 0.9247539043426514,
+      "inference_time_seconds": 1.0135471820831299,
+      "visualization_file": "visualizations/position_029_axis.png",
+      "image_file": "position_029.png"
+    },
+    {
+      "status": "success",
+      "azimuth_deg": 177.0,
+      "polar_deg": -17.0,
+      "rotation_deg": -24.0,
+      "confidence_score": 0.9301543235778809,
+      "inference_time_seconds": 0.9793572425842285,
+      "visualization_file": "visualizations/position_036_axis.png",
+      "image_file": "position_036.png"
+    },
+    {
+      "status": "success",
+      "azimuth_deg": 350.0,
+      "polar_deg": 0.0,
+      "rotation_deg": 32.0,
+      "confidence_score": 0.9523727893829346,
+      "inference_time_seconds": 0.9774911403656006,
+      "visualization_file": "visualizations/position_045_axis.png",
+      "image_file": "position_045.png"
+    },
+    {
+      "status": "success",
+      "azimuth_deg": 1.0,
+      "polar_deg": 0.0,
+      "rotation_deg": 76.0,
+      "confidence_score": 0.9552765488624573,
+      "inference_time_seconds": 0.9569616317749023,
+      "visualization_file": "visualizations/position_052_axis.png",
+      "image_file": "position_052.png"
+    },
+    {
+      "status": "success",
+      "azimuth_deg": 357.0,
+      "polar_deg": 0.0,
+      "rotation_deg": 35.0,
+      "confidence_score": 0.8081900477409363,
+      "inference_time_seconds": 0.9484734535217285,
+      "visualization_file": "visualizations/position_059_axis.png",
+      "image_file": "position_059.png"
+    },
+    {
+      "status": "success",
+      "azimuth_deg": 1.0,
+      "polar_deg": 0.0,
+      "rotation_deg": 66.0,
+      "confidence_score": 0.9844772815704346,
+      "inference_time_seconds": 0.9321632385253906,
+      "visualization_file": "visualizations/position_063_axis.png",
+      "image_file": "position_063.png"
+    },
+    {
+      "status": "success",
+      "azimuth_deg": 185.0,
+      "polar_deg": -2.0,
+      "rotation_deg": 56.0,
+      "confidence_score": 0.7817783951759338,
+      "inference_time_seconds": 0.9573912620544434,
+      "visualization_file": "visualizations/position_069_axis.png",
+      "image_file": "position_069.png"
+    },
+    {
+      "status": "success",
+      "azimuth_deg": 180.0,
+      "polar_deg": -1.0,
+      "rotation_deg": 36.0,
+      "confidence_score": 0.7774496078491211,
+      "inference_time_seconds": 0.9720873832702637,
+      "visualization_file": "visualizations/position_076_axis.png",
+      "image_file": "position_076.png"
+    },
+    {
+      "status": "success",
+      "azimuth_deg": 355.0,
+      "polar_deg": 0.0,
+      "rotation_deg": 59.0,
+      "confidence_score": 0.9114441275596619,
+      "inference_time_seconds": 1.2047193050384521,
+      "visualization_file": "visualizations/position_088_axis.png",
+      "image_file": "position_088.png"
+    },
+    {
+      "status": "success",
+      "azimuth_deg": 6.0,
+      "polar_deg": -1.0,
+      "rotation_deg": 41.0,
+      "confidence_score": 0.9312148690223694,
+      "inference_time_seconds": 1.1481132507324219,
+      "visualization_file": "visualizations/position_092_axis.png",
+      "image_file": "position_092.png"
+    },
+    {
+      "status": "success",
+      "azimuth_deg": 1.0,
+      "polar_deg": -17.0,
+      "rotation_deg": -22.0,
+      "confidence_score": 0.9835554957389832,
+      "inference_time_seconds": 1.0921788215637207,
+      "visualization_file": "visualizations/position_156_axis.png",
+      "image_file": "position_156.png"
+    },
+    {
+      "status": "success",
+      "azimuth_deg": 6.0,
+      "polar_deg": -13.0,
+      "rotation_deg": 41.0,
+      "confidence_score": 0.9402670860290527,
+      "inference_time_seconds": 1.1118555068969727,
+      "visualization_file": "visualizations/position_167_axis.png",
+      "image_file": "position_167.png"
+    },
+    {
+      "status": "success",
+      "azimuth_deg": 0.0,
+      "polar_deg": 1.0,
+      "rotation_deg": -1.0,
+      "confidence_score": 0.9879248142242432,
+      "inference_time_seconds": 1.0714845657348633,
+      "visualization_file": "visualizations/position_191_axis.png",
+      "image_file": "position_191.png"
+    },
+    {
+      "status": "success",
+      "azimuth_deg": 355.0,
+      "polar_deg": -1.0,
+      "rotation_deg": 37.0,
+      "confidence_score": 0.8890655040740967,
+      "inference_time_seconds": 1.0411689281463623,
+      "visualization_file": "visualizations/position_194_axis.png",
+      "image_file": "position_194.png"
+    },
+    {
+      "status": "success",
+      "azimuth_deg": 185.0,
+      "polar_deg": 0.0,
+      "rotation_deg": 45.0,
+      "confidence_score": 0.9348369836807251,
+      "inference_time_seconds": 1.0622498989105225,
+      "visualization_file": "visualizations/position_232_axis.png",
+      "image_file": "position_232.png"
+    },
+    {
+      "status": "success",
+      "azimuth_deg": 185.0,
+      "polar_deg": 1.0,
+      "rotation_deg": 35.0,
+      "confidence_score": 0.8675440549850464,
+      "inference_time_seconds": 1.031559944152832,
+      "visualization_file": "visualizations/position_246_axis.png",
+      "image_file": "position_246.png"
+    },
+    {
+      "status": "success",
+      "azimuth_deg": 357.0,
+      "polar_deg": 0.0,
+      "rotation_deg": -28.0,
+      "confidence_score": 0.9836034774780273,
+      "inference_time_seconds": 1.1001698970794678,
+      "visualization_file": "visualizations/position_285_axis.png",
+      "image_file": "position_285.png"
+    },
+    {
+      "status": "success",
+      "azimuth_deg": 179.0,
+      "polar_deg": -2.0,
+      "rotation_deg": 36.0,
+      "confidence_score": 0.750818133354187,
+      "inference_time_seconds": 1.08034086227417,
+      "visualization_file": "visualizations/position_298_axis.png",
+      "image_file": "position_298.png"
+    },
+    {
+      "status": "success",
+      "azimuth_deg": 178.0,
+      "polar_deg": 0.0,
+      "rotation_deg": 84.0,
+      "confidence_score": 0.9864033460617065,
+      "inference_time_seconds": 1.1120409965515137,
+      "visualization_file": "visualizations/position_322_axis.png",
+      "image_file": "position_322.png"
+    },
+    {
+      "status": "success",
+      "azimuth_deg": 179.0,
+      "polar_deg": -1.0,
+      "rotation_deg": 35.0,
+      "confidence_score": 0.7305858135223389,
+      "inference_time_seconds": 1.0461299419403076,
+      "visualization_file": "visualizations/position_361_axis.png",
+      "image_file": "position_361.png"
+    },
+    {
+      "status": "success",
+      "azimuth_deg": 357.0,
+      "polar_deg": 0.0,
+      "rotation_deg": -35.0,
+      "confidence_score": 0.9411039352416992,
+      "inference_time_seconds": 1.0147712230682373,
+      "visualization_file": "visualizations/position_379_axis.png",
+      "image_file": "position_379.png"
+    },
+    {
+      "status": "success",
+      "azimuth_deg": 5.0,
+      "polar_deg": 0.0,
+      "rotation_deg": -24.0,
+      "confidence_score": 0.9704326391220093,
+      "inference_time_seconds": 1.0641319751739502,
+      "visualization_file": "visualizations/position_387_axis.png",
+      "image_file": "position_387.png"
+    },
+    {
+      "status": "success",
+      "azimuth_deg": 179.0,
+      "polar_deg": 0.0,
+      "rotation_deg": 24.0,
+      "confidence_score": 0.9025691747665405,
+      "inference_time_seconds": 1.0887091159820557,
+      "visualization_file": "visualizations/position_402_axis.png",
+      "image_file": "position_402.png"
+    },
+    {
+      "status": "success",
+      "azimuth_deg": 355.0,
+      "polar_deg": -1.0,
+      "rotation_deg": 36.0,
+      "confidence_score": 0.9181241989135742,
+      "inference_time_seconds": 1.0315895080566406,
+      "visualization_file": "visualizations/position_407_axis.png",
+      "image_file": "position_407.png"
+    },
+    {
+      "status": "success",
+      "azimuth_deg": 357.0,
+      "polar_deg": 0.0,
+      "rotation_deg": -27.0,
+      "confidence_score": 0.7944581508636475,
+      "inference_time_seconds": 1.0951030254364014,
+      "visualization_file": "visualizations/position_410_axis.png",
+      "image_file": "position_410.png"
+    },
+    {
+      "status": "success",
+      "azimuth_deg": 353.0,
+      "polar_deg": 0.0,
+      "rotation_deg": 22.0,
+      "confidence_score": 0.970735490322113,
+      "inference_time_seconds": 1.0274684429168701,
+      "visualization_file": "visualizations/position_419_axis.png",
+      "image_file": "position_419.png"
+    },
+    {
+      "status": "success",
+      "azimuth_deg": 180.0,
+      "polar_deg": -1.0,
+      "rotation_deg": 36.0,
+      "confidence_score": 0.7642673254013062,
+      "inference_time_seconds": 1.1139299869537354,
+      "visualization_file": "visualizations/position_426_axis.png",
+      "image_file": "position_426.png"
+    },
+    {
+      "status": "success",
+      "azimuth_deg": 355.0,
+      "polar_deg": 1.0,
+      "rotation_deg": 16.0,
+      "confidence_score": 0.48738017678260803,
+      "inference_time_seconds": 0.8572485446929932,
+      "visualization_file": null,
+      "image_file": "position_458.png"
+    },
+    {
+      "status": "success",
+      "azimuth_deg": 176.0,
+      "polar_deg": -4.0,
+      "rotation_deg": 19.0,
+      "confidence_score": 0.9289693236351013,
+      "inference_time_seconds": 1.1227896213531494,
+      "visualization_file": "visualizations/position_468_axis.png",
+      "image_file": "position_468.png"
+    },
+    {
+      "status": "success",
+      "azimuth_deg": 180.0,
+      "polar_deg": 0.0,
+      "rotation_deg": 1.0,
+      "confidence_score": 0.9806686043739319,
+      "inference_time_seconds": 1.0852172374725342,
+      "visualization_file": "visualizations/position_474_axis.png",
+      "image_file": "position_474.png"
+    },
+    {
+      "status": "success",
+      "azimuth_deg": 175.0,
+      "polar_deg": 3.0,
+      "rotation_deg": 8.0,
+      "confidence_score": 0.9840515851974487,
+      "inference_time_seconds": 1.1027016639709473,
+      "visualization_file": "visualizations/position_485_axis.png",
+      "image_file": "position_485.png"
+    },
+    {
+      "status": "success",
+      "azimuth_deg": 180.0,
+      "polar_deg": -1.0,
+      "rotation_deg": 37.0,
+      "confidence_score": 0.9039278626441956,
+      "inference_time_seconds": 1.1506977081298828,
+      "visualization_file": "visualizations/position_487_axis.png",
+      "image_file": "position_487.png"
+    },
+    {
+      "status": "success",
+      "azimuth_deg": 181.0,
+      "polar_deg": 0.0,
+      "rotation_deg": -1.0,
+      "confidence_score": 0.9738935828208923,
+      "inference_time_seconds": 1.0504302978515625,
+      "visualization_file": "visualizations/position_508_axis.png",
+      "image_file": "position_508.png"
+    },
+    {
+      "status": "success",
+      "azimuth_deg": 182.0,
+      "polar_deg": -1.0,
+      "rotation_deg": 1.0,
+      "confidence_score": 0.9853031635284424,
+      "inference_time_seconds": 1.1530582904815674,
+      "visualization_file": "visualizations/position_533_axis.png",
+      "image_file": "position_533.png"
+    },
+    {
+      "status": "success",
+      "azimuth_deg": 353.0,
+      "polar_deg": 0.0,
+      "rotation_deg": 30.0,
+      "confidence_score": 0.9705350399017334,
+      "inference_time_seconds": 1.1249094009399414,
+      "visualization_file": "visualizations/position_550_axis.png",
+      "image_file": "position_550.png"
+    },
+    {
+      "status": "success",
+      "azimuth_deg": 178.0,
+      "polar_deg": 0.0,
+      "rotation_deg": 70.0,
+      "confidence_score": 0.9182227253913879,
+      "inference_time_seconds": 1.2464141845703125,
+      "visualization_file": "visualizations/position_579_axis.png",
+      "image_file": "position_579.png"
+    },
+    {
+      "status": "success",
+      "azimuth_deg": 178.0,
+      "polar_deg": 0.0,
+      "rotation_deg": 62.0,
+      "confidence_score": 0.9419665932655334,
+      "inference_time_seconds": 1.154378890991211,
+      "visualization_file": "visualizations/position_585_axis.png",
+      "image_file": "position_585.png"
+    },
+    {
+      "status": "success",
+      "azimuth_deg": 178.0,
+      "polar_deg": 0.0,
+      "rotation_deg": 85.0,
+      "confidence_score": 0.917820155620575,
+      "inference_time_seconds": 1.258606195449829,
+      "visualization_file": "visualizations/position_618_axis.png",
+      "image_file": "position_618.png"
+    },
+    {
+      "status": "success",
+      "azimuth_deg": 357.0,
+      "polar_deg": 1.0,
+      "rotation_deg": -20.0,
+      "confidence_score": 0.8769189119338989,
+      "inference_time_seconds": 1.1859581470489502,
+      "visualization_file": "visualizations/position_624_axis.png",
+      "image_file": "position_624.png"
+    }
+  ]
+}
